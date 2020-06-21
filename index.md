@@ -5,3 +5,6 @@ Ein ganz unkreative Beschreibung mit wenig Inhalt aber hoffentlich genug Worten 
 * Trait 1
 * Trait 2
 * Trait 3
+
+## Zitate 
+> Zitat 1
